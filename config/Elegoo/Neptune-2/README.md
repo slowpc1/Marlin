@@ -93,9 +93,9 @@ NOTE: the last four steps may seem a little odd, but I can confirm this is worki
 
 ## TIPS
 
-### Z Offest Wizard Location
+### Z Offset Wizard Location
 
-Located at: *settings icon -> Configuration -> Advanced Settings -> NEXT ARROW (>) -> Tempeture -> NEXT ARROW (>) -> Probe Offsets*
+Located at: *settings icon -> Configuration -> Advanced Settings -> NEXT ARROW (>) -> Temperature -> NEXT ARROW (>) -> Probe Offsets*
 
 ### Live Z Offset (Baby Stepping) Location
 
